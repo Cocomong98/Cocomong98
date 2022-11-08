@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Cocomong98
-- 👀 I’m interested in ... CSEE
-- 🌱 I’m currently learning ...JAVA, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- HSD (2021.02~)
+- SLE (2022.03~)
 
 <!---
 Cocomong98/Cocomong98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

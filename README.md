@@ -1,5 +1,6 @@
-- HSD (2021.02~)
-- SLE (2022.03~)
+- HSD 🏖 (2021.02~)
+- CSEE 💻 (2021.09~)
+- SLE 🐍 (2022.03~)
 
 <!---
 Cocomong98/Cocomong98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

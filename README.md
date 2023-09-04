@@ -10,6 +10,8 @@
 - CSEE 💻 (2022.03~)
 - SLE 🐍 (2022.03~)
 - WALAB  💻 (2023.06~)
+- ![image](https://github.com/Cocomong98/Cocomong98/assets/90203932/b1156c18-47a5-4cef-aebc-c06851b02831)
+
 <!---
 Cocomong98/Cocomong98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

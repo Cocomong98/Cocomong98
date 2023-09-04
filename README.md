@@ -9,7 +9,7 @@
 - HSD 🏖 (2021.02~)
 - CSEE 💻 (2022.03~)
 - SLE 🐍 (2022.03~)
-- <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd.png" width="200" height="400"/>
+- <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd.png" width="30" height="30"/>
 - ![image](https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd) WALAB (2023.06~)
 - ![image](https://github.com/Cocomong98/Cocomong98/assets/90203932/b1156c18-47a5-4cef-aebc-c06851b02831) PARD (2023.09~)
 

@@ -9,8 +9,8 @@
 - HSD 🏖 (2021.02~)
 - CSEE 💻 (2022.03~)
 - SLE 🐍 (2022.03~)
-- <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd.png" width="20" height="20"/> WALAB
-- ![image](https://github.com/Cocomong98/Cocomong98/assets/90203932/b1156c18-47a5-4cef-aebc-c06851b02831) PARD (2023.09~)
+- <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd.png" width="20" height="20"/> WALAB (2023.06~)
+- <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/b1156c18-47a5-4cef-aebc-c06851b02831.png" width="20" height="20"/> PARD (2023.09~)
 
 <!---
 Cocomong98/Cocomong98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

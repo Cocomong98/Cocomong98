@@ -12,7 +12,7 @@
 - <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd.png" width="20" height="20"/> WALAB (2023.06~)
 - <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/b1156c18-47a5-4cef-aebc-c06851b02831.png" width="20" height="20"/> PARD (2023.09~)
 
-# Etcs
+# ETCs
 
 ###
 
@@ -20,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cocomong98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cocomong98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cocomong98/cocomong98/output/snake.svg" alt="Snake animation" />
 
 ###
 

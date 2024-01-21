@@ -5,6 +5,7 @@
 - 고급 레스토랑 예약 관리 웹사이트 (Apple In The Tree) (2023)
 - 알고리즘 풀이 동기부여 서비스 MyCoT (2023)
 - PARD 2기 롱커톤 (BINGO) (2024)
+- Capstone Project 2 (2024)
 - Next Project...
 
 # About Me

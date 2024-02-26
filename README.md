@@ -6,6 +6,7 @@
 - 알고리즘 풀이 동기부여 서비스 MyCoT (2023)
 - PARD 2기 롱커톤 - 대상 (BINGO) (2024)
 - Capstone Project 2 (2024)
+- Sleweb vol.2
 - Next Project...
 
 # About Me

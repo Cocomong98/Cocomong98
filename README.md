@@ -7,7 +7,6 @@
 - PARD 2기 롱커톤 - 대상 (BINGO) (2024)
 - SWAP (2024)
 - Bizflow Camp
-- Sleweb vol.2
 - Next Project...
 
 # About Me

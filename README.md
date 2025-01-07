@@ -10,7 +10,7 @@
 - Next Project...
 
 # About Me
-- HSD 🏖 (2021.02~)
+- HSD 🏖 (2021.02 ~ )
 - CSEE 💻 (2022.03~2025)
 - SLE 🐍 (2022.03~2024)
 - <img src="https://github.com/Cocomong98/Cocomong98/assets/90203932/1eec0d28-d054-4e25-9907-20598c2690fd.png" width="20" height="20"/> WALAB (2023.06~2025.02)

@@ -6,7 +6,8 @@
 - 알고리즘 풀이 동기부여 서비스 MyCoT (2023)
 - PARD 2기 롱커톤 - 대상 (BINGO) (2024)
 - 24-1 Capstone2 Festival 우수상 HappyMan (2024)
-- Bizflow 2024 Contest 우수상 Resturant Reservation System (2024)...
+- Bizflow 2024 Contest 우수상 Resturant Reservation System (2024)
+- HomePage (2025)
 - Next Project...
 
 # About Me

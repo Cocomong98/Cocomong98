@@ -7,7 +7,6 @@
 - PARD 2기 롱커톤 - 대상 (BINGO) (2024)
 - 24-1 Capstone2 Festival 우수상 HappyMan (2024)
 - Bizflow 2024 Contest 우수상 Resturant Reservation System (2024)
-- Protfolio Project (2025)
 
 # About Me
 - HSD 🏖 (2021.02 ~ )

@@ -31,15 +31,12 @@
 ---
 
 ## 💻 Projects
-| Project | Description | Tech Stack | Links | Achievement |
-| :--- | :--- | :--- | :--- | :--- |
-| **Histudy** | 스터디 그룹 자동 매칭 서비스 | TS, React Query, Tailwind, Playwright | [📁 Repo](https://github.com/HandongSF/histudy-fe) / [🚀 WEB](https://histudy.lifove.net/) |  |
-| **BINGO** | PARD 2기 롱커톤 프로젝트 | React, Recoil, MUI, Firebase | [📁 Repo](https://github.com/Club-PARD/Bingo_WEB) / [🚀 About](https://three-four-bingo.notion.site/Team-3-4-b0f5146c27fd4ad0b1de2eca18d1e575) | **대상** |
-| **HappyMan** | Capstone2 Festival 프로젝트 | React, Recoil, Sass, Axios | [📁 Repo](https://github.com/HGU-WALAB/HappyMan-Front) | **우수상** |
-| **MyCoT** | 알고리즘 풀이 동기부여 서비스 | React, JS, Axios | [📁 Repo](https://github.com/HGU-WALAB/MyCoT_T) | - |
-| **운동,하자** | 대경권 공공데이터 활용 서비스 | Flutter, Public API | - | **우수상** |
+| Project       | Description                   | Tech Stack                            | Links                                                                                                                                        | Achievement |
+| :------------ | :---------------------------- | :------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Histudy**   | 스터디 그룹 자동 매칭 서비스  | TS, React Query, Tailwind, Playwright | [📁 Repo](https://github.com/HandongSF/histudy-fe) / [🚀 WEB](https://histudy.lifove.net/)                                                     |             |
+| **BINGO**     | PARD 2기 롱커톤 프로젝트      | React, Recoil, MUI, Firebase          | [📁 Repo](https://github.com/Club-PARD/Bingo_WEB) / [🚀 About](https://three-four-bingo.notion.site/Team-3-4-b0f5146c27fd4ad0b1de2eca18d1e575) | **대상**    |
+| **HappyMan**  | Capstone2 Festival 프로젝트   | React, Recoil, Sass, Axios            | [📁 Repo](https://github.com/HGU-WALAB/HappyMan-Front)                                                                                        | **우수상**  |
+| **MyCoT**     | 알고리즘 풀이 동기부여 서비스 | React, JS, Axios                      | [📁 Repo](https://github.com/HGU-WALAB/MyCoT_T)                                                                                               | -           |
+| **운동,하자** | 대경권 공공데이터 활용 서비스 | Flutter, Public API                   | -                                                                                                                                            | **우수상**  |
 
----
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourid&show_icons=true&theme=radical)
